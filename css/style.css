@@ -1747,12 +1747,12 @@ sup {
 
 
 #menu li.main-nav:nth-child(2)::after {
-  background: url("../img/char-1.jpg") center;
+  background: url("../img/char-2.jpg") center;
   background-size: cover;
 }
 
 #menu li.main-nav:nth-child(3)::after {
-  background: url("../img/char-2.jpg") center;
+  background: url("../img/anri-1.jpg") center;
   background-size: cover;
 } 
 /*
@@ -1775,31 +1775,31 @@ sup {
 
 
 .section#section2 .carousel .carousel-inner .item:nth-child(2){
-  background: url("../img/char-1.jpg") center;
+  background: url("../img/char-2.jpg") center;
   background-size: cover;
 }
 .section#section2 .carousel .carousel-inner .item:nth-child(3){
-  background: url("../img/char-2.jpg") center;
+  background: url("../img/char-3.jpg") center;
   background-size: cover;
 }
 
 .section#section2 .carousel .carousel-inner .item:nth-child(4){
-  background: url("../img/background-9.jpg") center;
+  background: url("../img/char-1.jpg") center;
   background-size: cover;
 }
 
 
 .section#section3 .carousel .carousel-inner .item:nth-child(2){
-  background: url("../img/char-1.jpg") center;
+  background: url("../img/anri-1.jpg") center;
   background-size: cover;
 }
 .section#section3 .carousel .carousel-inner .item:nth-child(3){
-  background: url("../img/char-2.jpg") center;
+  background: url("../img/anri-2.jpg") center;
   background-size: cover;
 }
 
 .section#section3 .carousel .carousel-inner .item:nth-child(4){
-  background: url("../img/background-9.jpg") center;
+  background: url("../img/anri-3.jpg") center;
   background-size: cover;
 }
 
